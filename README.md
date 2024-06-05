@@ -1,0 +1,1 @@
+Provides services for customers to rent sports facilities, owners of rental spaces to view and verify customer orders, and website administrators to verify rental space owners. Additionally, the website offers a dashboard analytics feature for rental space owners and website administration
